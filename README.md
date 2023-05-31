@@ -1,10 +1,11 @@
 <a name="readme-top"></a>
 
+
 <div align="center">
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Hello Microverse</b></h3>
+  <h3><b> Hello Microverse README </b></h3>
 
 </div>
 
@@ -34,20 +35,51 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Hello Microverse] <a name="about-project"></a>
+# 📖 [Hello Microverse] <a name="Hello Microverse"></a>
 
 
-**[Hello Microverse]** This is  an introductory project to set up linters
-
+**[Hello Microverse]** is a the first project in microverse about installing and testing linters
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
+-HTML 
+-CSS
 
-- HTML 
-- CSS
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/html/">HTML</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>STYLING</summary>
+  <ul>
+    <li><a href="https://www.w3schools.com/css/">CSS</a></li>
+  </ul>
+</details>
+
 
 <!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **[HTML]**
+- **[CSS]**
+- **[STYLING]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+PENDING...
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
@@ -62,17 +94,39 @@ In order to run this project you need:
 
 
 ```sh
- npm install
+ npm install 
 ```
+ -->
 
 ### Setup
 
 Clone this repository to your desired folder:
 
+
 ```sh
   cd my-folder
-  git clone git@github.com:Danny-imo/Hello-Microvers.git
+  git clone git@github.Danny-imo/Hello-Microverse.git
 ```
+--->
+
+### Install
+
+Install this project with:
+
+
+```sh
+  cd my-project
+  npm install --save-dev hint@7.x
+ npm install --save-dev stylelint@13.x stylelint-scss@3.x stylelint-config-standard@21.x stylelint-csstree-validator@1.x
+
+```
+--->
+
+
+### Deployment
+
+You can deploy this project using:Github Pages
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -80,19 +134,62 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Author1**
+
+👤 Imo Daniel
 
 - GitHub: [@Danny-imo](https://github.com/Danny-imo)
 - Twitter: [@danielimo758](https://twitter.com/danielimo758)
-- LinkedIn: [imo-daniel](https://linkedin.com/in/imo-daniel)
+- LinkedIn: [Imo Daniel](https://linkedin.com/in/Imo Daniel)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[Add styling]**
+- [ ] **[Add more Markup]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+
+If you like this project...Please give it a star
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- ACKNOWLEDGEMENTS -->
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+> Give credit to everyone who inspired your codebase.
+
+I would like to thank...@tomdan-ai
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FAQ (optional) -->
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./MIT.md) licensed.
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
